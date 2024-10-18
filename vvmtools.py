@@ -273,3 +273,6 @@ class VVMTools:
         # Combine and return the results
         return np.squeeze(np.array(results))
 
+
+    def cal_TKE(self):
+        pass
